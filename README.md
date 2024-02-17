@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Richa</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/nero__ooo" target="blank"><img src="https://img.shields.io/twitter/follow/nero__ooo?logo=twitter&style=for-the-badge" alt="nero__ooo" /></a> </p>
 
